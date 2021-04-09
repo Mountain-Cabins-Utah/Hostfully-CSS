@@ -1,0 +1,16 @@
+name: Clear JSDeliver Cache
+
+on:
+  push:
+    branches: [ main ]
+  pull_request:
+    branches: [ main ]
+
+jobs:
+  clear-cache:    
+    runs-on: ubuntu-latest
+    steps:
+      - name: Clear Cache
+        uses: CamiloGarciaLaRotta/watermelon-http-client@v1
+        with:
+          url: 'https://purge.jsdelivr.net/gh/Mountain-Cabins-Utah/Hostfully-CSS@main/style.css'
