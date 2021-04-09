@@ -14,8 +14,8 @@ img.logo_custom {
                                                              //form color and height
 
 
-.flip-container {
-    height: 450px !important;
+#widget-capture form, #widget-calendar, .flip-container {
+    height: 440px;
 }
 
 .orbirental-capture-widget-form {
