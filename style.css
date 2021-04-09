@@ -11,7 +11,7 @@ img.logo_custom {
     height: 60px !important;
 }
 
-/*form color and height */
+/* form color and height */
 
 
 #widget-capture form, #widget-calendar, .flip-container {
@@ -28,11 +28,9 @@ img.logo_custom {
     display: none;
 }
 
+/* Changed the Text Color  */
 .leadWidget p {
     color: white !important;
 }
 
-/* Hide the footer */
-#footer {
-    display: none;
-}
+
