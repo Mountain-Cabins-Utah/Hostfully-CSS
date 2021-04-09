@@ -33,11 +33,3 @@ img.logo_custom {
 .leadWidget p {
     color: white !important;
 }
-
-/* Hide the footer */
-
-div#footer {
-    display: none;
-}
-
-
