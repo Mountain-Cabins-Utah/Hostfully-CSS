@@ -21,3 +21,9 @@ img.logo_custom {
 .orbirental-capture-widget-form {
    background-color: rgb(44, 45, 64) !important;
 }
+
+/* Hiding the logo in the body */
+
+.agency-header-logo {
+    display: none;
+}
