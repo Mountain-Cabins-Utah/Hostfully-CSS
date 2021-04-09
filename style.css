@@ -1,7 +1,23 @@
+                                                                 //navbar color
+
 .navbar-default {
     background-color: #2F2D27 !important;
     border-color: #2F2D27 !important;
 }
+
+                                                                 //navbar logo
+
 img.logo_custom {
     height: 60px !important;
+}
+
+                                                             //form color and height
+
+
+.flip-container {
+    height: 450px !important;
+}
+
+.orbirental-capture-widget-form {
+   background-color: rgb(44, 45, 64) !important;
 }
