@@ -33,6 +33,6 @@ img.logo_custom {
 }
 
 /* Hide the footer */
-div#footer {
+#footer {
     display: none;
 }
