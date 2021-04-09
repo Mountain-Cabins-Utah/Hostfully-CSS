@@ -29,8 +29,15 @@ img.logo_custom {
 }
 
 /* Changed the Text Color  */
+
 .leadWidget p {
     color: white !important;
+}
+
+/* Hide the footer */
+
+div#footer {
+    display: none;
 }
 
 
