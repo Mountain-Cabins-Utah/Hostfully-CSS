@@ -1,17 +1,17 @@
-                                                                 //navbar color
+/*navbar color */
 
 .navbar-default {
     background-color: #2F2D27 !important;
     border-color: #2F2D27 !important;
 }
 
-                                                                 //navbar logo
+/*navbar logo */
 
 img.logo_custom {
     height: 60px !important;
 }
 
-                                                             //form color and height
+/*form color and height */
 
 
 #widget-capture form, #widget-calendar, .flip-container {
