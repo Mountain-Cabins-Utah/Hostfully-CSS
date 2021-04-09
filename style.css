@@ -27,3 +27,7 @@ img.logo_custom {
 .agency-header-logo {
     display: none;
 }
+
+.leadWidget p {
+    color: white;
+}
