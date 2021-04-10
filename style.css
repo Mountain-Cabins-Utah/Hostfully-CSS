@@ -1,35 +1,36 @@
-/*navbar color */
+/* navbar color */
 
 .navbar-default {
-    background-color: #2F2D27 !important;
-    border-color: #2F2D27 !important;
+  background-color: #2f2d27 !important;
+  border-color: #2f2d27 !important;
 }
 
-/*navbar logo */
+/* navbar logo */
 
 img.logo_custom {
-    height: 60px !important;
+  height: 60px !important;
 }
 
 /* form color and height */
 
-
-#widget-capture form, #widget-calendar, .flip-container {
-    height: 440px;
+#widget-capture form,
+#widget-calendar,
+.flip-container {
+  height: 440px;
 }
 
 .orbirental-capture-widget-form {
-   background-color: rgb(44, 45, 64) !important;
+  background-color: rgb(44, 45, 64) !important;
 }
 
 /* Hiding the logo in the body */
 
 .agency-header-logo {
-    display: none;
+  display: none;
 }
 
 /* Changed the Text Color  */
 
 .leadWidget p {
-    color: white !important;
+  color: white !important;
 }
