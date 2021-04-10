@@ -1,17 +1,17 @@
-/* navbar color */
+/* Navbar Color */
 
 .navbar-default {
   background-color: #2f2d27 !important;
   border-color: #2f2d27 !important;
 }
 
-/* navbar logo */
+/* Navbar Logo */
 
 img.logo_custom {
   height: 60px !important;
 }
 
-/* form color and height */
+/* Form Color and Height */
 
 #widget-capture form,
 #widget-calendar,
@@ -23,7 +23,7 @@ img.logo_custom {
   background-color: rgb(44, 45, 64) !important;
 }
 
-/* Hiding the logo in the body */
+/* Hiding the Logo in the Body */
 
 .agency-header-logo {
   display: none;
@@ -33,4 +33,10 @@ img.logo_custom {
 
 .leadWidget p {
   color: white !important;
+}
+
+/* Hide the Footer */
+
+div#footer {
+  display: none;
 }
