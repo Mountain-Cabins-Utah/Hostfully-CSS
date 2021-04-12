@@ -15,8 +15,6 @@ img.logo_custom {
 
 /* Form Color and Height */
 
-#widget-capture form,
-#widget-calendar,
 .flip-container {
   height: 440px;
 }
