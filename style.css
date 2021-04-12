@@ -37,12 +37,6 @@ img.logo_custom {
   color: white !important;
 }
 
-/* Hide the Footer */
-
-div#footer {
-  display: none;
-}
-
 /* Calendar color */
 .calendar {
     background-color: lightgrey !important;
