@@ -44,20 +44,19 @@ div#footer {
 }
 
 /* Calendar color */
-.orbirental-calendar-widget div.calendar, .orbirental-calendar-widget div.slogan {
-    background-color: lightgray;
+.calendar {
+    background-color: lightgrey !important;
     width: 100%;
     margin: 0 auto;
     text-align: center;
     font-size: 12px !important;
     font-family: Helvetica Neue,Helvetica,Arial,sans-serif !important;
 }
-
-div.orbirental-calendar-widget {
+.orbirental-calendar-widget {
     margin: 0 auto;
     border: 1px solid gray;
     padding: 5px;
     display: block;
     max-width: 100%;
-    background-color: lightgrey;
+    background-color: lightgrey !important;
 }
