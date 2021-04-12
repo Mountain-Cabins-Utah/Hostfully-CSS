@@ -68,6 +68,11 @@ color: #FF8E4C;
     font-family: Helvetica Neue,Helvetica,Arial,sans-serif !important;
 }
 
+/* All Color */
+* {
+  color: #FF8E4C;
+}
+
 /* h3 Color */
 
 h3{
@@ -76,9 +81,7 @@ color: #FF8E4C;
 
 /* Paragraph color */
 p {
-  color: white;
+  color: white !important;
 }
 
-* {
-  color: #FF8E4C;
-}
+
