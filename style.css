@@ -38,7 +38,8 @@ img.logo_custom {
 }
 
 /* Calendar color */
-.orbirental-calendar-widget div.calendar, .orbirental-calendar-widget div.slogan {
+
+.orbirental-calendar-widget div.calendar {
     background-color: lightgrey !important;
     width: 100%;
     margin: 0 auto;
@@ -53,4 +54,11 @@ img.logo_custom {
     display: block;
     max-width: 100%;
     background-color: lightgrey !important;
+}
+
+.orbirental-calendar-widget-nav {
+    background-color: lightgrey !important;
+    margin: 0 auto;
+    font-size: 12px !important;
+    font-family: Helvetica Neue,Helvetica,Arial,sans-serif !important;
 }
