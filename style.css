@@ -37,6 +37,13 @@ img.logo_custom {
   color: white !important;
 }
 
+/* h3 Color */
+
+h3 {
+color: #FF8E4C;
+}
+
+
 /* Calendar color */
 
 .orbirental-calendar-widget div.calendar {
@@ -61,4 +68,10 @@ img.logo_custom {
     margin: 0 auto;
     font-size: 12px !important;
     font-family: Helvetica Neue,Helvetica,Arial,sans-serif !important;
+}
+
+/* h3 Color */
+
+h3{
+color: #FF8E4C;
 }
