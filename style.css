@@ -1,5 +1,10 @@
 /* Mountain Cabins Utah - Custom Hostfully Styles */
 
+/* Body Color */
+
+body {
+ background-color: #2F2D27
+}
 /* Navbar Color */
 
 .navbar-default {
