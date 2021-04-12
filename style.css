@@ -38,7 +38,7 @@ img.logo_custom {
 }
 
 /* Calendar color */
-.calendar {
+.orbirental-calendar-widget div.calendar, .orbirental-calendar-widget div.slogan {
     background-color: lightgrey !important;
     width: 100%;
     margin: 0 auto;
