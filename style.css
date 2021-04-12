@@ -69,6 +69,7 @@ color: #FF8E4C;
 }
 
 /* All Color */
+
 * {
   color: #FF8E4C;
 }
@@ -80,8 +81,9 @@ color: #FF8E4C;
 }
 
 /* Paragraph color */
+
 p {
-  color: white !important;
+  color: #FFFFFF; !important;
 }
 
 
