@@ -3,8 +3,9 @@
 /* Body Color */
 
 body {
- background-color: #2F2D27
+  background-color: #2f2d27;
 }
+
 /* Navbar Color */
 
 .navbar-default {
@@ -34,6 +35,12 @@ img.logo_custom {
   display: none;
 }
 
+/* Paragraph color */
+
+p {
+  color: #fff !important;
+}
+
 /* Changed the Text Color  */
 
 .leadWidget p {
@@ -49,52 +56,38 @@ div#footer {
 /* h3 Color */
 
 h3 {
-color: #FF8E4C;
+  color: #ff8e4c;
 }
-
 
 /* Calendar color */
 
 .orbirental-calendar-widget div.calendar {
-    background-color: lightgrey !important;
-    width: 100%;
-    margin: 0 auto;
-    text-align: center;
-    font-size: 12px !important;
-    font-family: Helvetica Neue,Helvetica,Arial,sans-serif !important;
+  background-color: lightgrey !important;
+  width: 100%;
+  margin: 0 auto;
+  text-align: center;
+  font-size: 12px !important;
+  font-family: Helvetica Neue, Helvetica, Arial, sans-serif !important;
 }
+
 .orbirental-calendar-widget {
-    margin: 0 auto;
-    border: 1px solid gray;
-    padding: 5px;
-    display: block;
-    max-width: 100%;
-    background-color: lightgrey !important;
+  margin: 0 auto;
+  border: 1px solid gray;
+  padding: 5px;
+  display: block;
+  max-width: 100%;
+  background-color: lightgrey !important;
 }
 
 .orbirental-calendar-widget-nav {
-    background-color: lightgrey !important;
-    margin: 0 auto;
-    font-size: 12px !important;
-    font-family: Helvetica Neue,Helvetica,Arial,sans-serif !important;
+  background-color: lightgrey !important;
+  margin: 0 auto;
+  font-size: 12px !important;
+  font-family: Helvetica Neue, Helvetica, Arial, sans-serif !important;
 }
 
 /* All Color */
 
 * {
-  color: #FF8E4C;
+  color: #ff8e4c;
 }
-
-/* h3 Color */
-
-h3{
-color: #FF8E4C;
-}
-
-/* Paragraph color */
-
-p {
-  color: #FFFFFF; !important;
-}
-
-

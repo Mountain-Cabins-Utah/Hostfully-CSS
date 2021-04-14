@@ -1,7 +1,7 @@
 # MCU's CSS Styles for the Hostfully's Direct Booking Site
 
 [![Lint Code Base](https://github.com/Mountain-Cabins-Utah/Hostfully-CSS/actions/workflows/linter.yml/badge.svg)](https://github.com/Mountain-Cabins-Utah/Hostfully-CSS/actions/workflows/linter.yml)
-![https://www.jsdelivr.com/package/gh/Mountain-Cabins-Utah/Hostfully-CSS](https://data.jsdelivr.com/v1/package/gh/Mountain-Cabins-Utah/Hostfully-CSS/badge?style=rounded)
+[![jsDelivr](https://data.jsdelivr.com/v1/package/gh/Mountain-Cabins-Utah/Hostfully-CSS/badge?style=rounded)](https://www.jsdelivr.com/package/gh/Mountain-Cabins-Utah/Hostfully-CSS)
 
 This repository stores Mountain Cabin Utah's CSS Styles for the Hostfully Direct Booking site.
 
