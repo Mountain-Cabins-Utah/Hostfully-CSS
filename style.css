@@ -1,9 +1,11 @@
 /* Mountain Cabins Utah - Custom Hostfully Styles */
 
 /* Body Color */
+@import url('https://fonts.googleapis.com/css2?family=Raleway&display=swap');
 
 body {
   background-color: #2f2d27;
+  font-family: 'Raleway', sans-serif;
 }
 
 /* Navbar Color */
