@@ -67,6 +67,12 @@ div#footer {
   color: white !important;
 }
 
+/* Hide Duplicate MCU Link */
+
+.col-xs-12 p:nth-child(2) {
+  display: none;
+}
+
 /* Calendar Color */
 
 .orbirental-calendar-widget div.calendar {
