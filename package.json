@@ -1,0 +1,13 @@
+{
+  "name": "mountain-cabins-utah-hostfuly-css-styles",
+  "description": "Mountain Cabin Utah's Hostfully CSS Styles for Direct Booking Page",
+  "license" : "SEE LICENSE IN ./LICENSE",
+  "repository": {
+	  "type" : "git",
+	  "url" : "https://github.com/Mountain-Cabins-Utah/Hostfully-CSS.git"
+  },
+  "private": true,
+  "devDependencies": {
+    "stylelint-config-standard": "^21.0.0"
+  }
+}
