@@ -40,6 +40,12 @@ img.logo_custom {
   color: white !important;
 }
 
+/* Hide the Footer */
+
+div#footer {
+  display: none;
+}
+
 /* h3 Color */
 
 h3 {
