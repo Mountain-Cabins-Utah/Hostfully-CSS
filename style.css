@@ -81,6 +81,12 @@ div#footer {
   font-size: 1.3em;
 }
 
+/* Change Search Details Font Size */
+
+.col-xs-8 .details > p {
+  font-size: 0.6em !important;
+}
+
 /* Hide Duplicate MCU Link */
 
 .col-xs-12 p:nth-child(2) {
