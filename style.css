@@ -67,6 +67,14 @@ div#footer {
   color: white !important;
 }
 
+/* Change Header Font */
+
+.agency-header-wrapper,
+.col-xs-8 .details > a,
+.col-xs-12 div:nth-child(1) {
+  font-family: 'Merriweather Sans', sans-serif;
+}
+
 /* Hide Duplicate MCU Link */
 
 .col-xs-12 p:nth-child(2) {
