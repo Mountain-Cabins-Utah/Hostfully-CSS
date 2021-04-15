@@ -75,6 +75,12 @@ div#footer {
   font-family: 'Merriweather Sans', sans-serif;
 }
 
+/* Change Sidebar Font Size */
+
+.col-xs-12 > h3 {
+  font-size: 1.3em;
+}
+
 /* Hide Duplicate MCU Link */
 
 .col-xs-12 p:nth-child(2) {
