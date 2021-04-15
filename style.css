@@ -59,6 +59,13 @@ div#footer {
 
 .orbirental-capture-widget-form {
   background-color: rgb(44, 45, 64) !important;
+  border: 0;
+}
+
+/* No Form Border */
+
+.leadWidget > form.orbirental-capture-widget-form {
+  border: 0;
 }
 
 /* Form Text Color  */
